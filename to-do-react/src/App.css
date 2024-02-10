@@ -1,0 +1,13 @@
+
+input{
+    width: 100%;
+}
+
+.torow{
+  margin: 10px 5px;  
+  color: blue;
+}
+
+.tobtn{
+    min-width: 70px;
+}
